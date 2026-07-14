@@ -59,4 +59,8 @@ modules:
       BUG_REPORT_URL: "https://github.com/emberaine/evenkite/issues"
       DEFAULT_HOSTNAME: evenkite
 
+  - type: script
+    scripts:
+      - cleanup.sh
+
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
