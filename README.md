@@ -1,8 +1,21 @@
-# evenkite &nbsp; [![bluebuild build badge](https://github.com/emberaine/evenkite/actions/workflows/build.yml/badge.svg)](https://github.com/emberaine/evenkite/actions/workflows/build.yml)
+<p align="center"><img width="1000" height="auto" scale="5" alt="evenkite_logo" src="https://github.com/user-attachments/assets/80da63ea-6599-4026-9004-d48be32fad0c" /></p>
+  <p align="center">An ultra-lightweight, atomic Linux distrobution based on Fedora for the modern developer.</p>
+  <p align="center"><a href="https://github.com/emberaine/evenkite/actions/workflows/build.yml"><img src="https://github.com/emberaine/evenkite/actions/workflows/build.yml/badge.svg" alt="bluebuild build badge"/></a></p>
 
-See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
+---
 
-After setup, it is recommended you update this README to describe your custom image.
+> [!WARNING]
+> Evenkite is actively being developed, and a lot of its features haven't been implemented yet.
+> 
+> You probably shouldn't use it yet, unless you dare!
+
+## Philosophy
+
+Silverblue doesn't have codecs or drivers, but has an extreme amount of default apps;
+
+Bazzite has codecs and drivers, but is such a big image and is very, very gaming focused;
+
+Evenkite is for those in between. It is made for developers, by developers.
 
 ## Installation
 
