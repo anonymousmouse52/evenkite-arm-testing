@@ -21,6 +21,7 @@ modules:
     repos:
       copr:
         - atim/starship
+        - lilay/topgrade
     install:
       packages:
         - starship
@@ -36,6 +37,8 @@ modules:
         - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
         - gnome-terminal
         - gnome-terminal-nautilus
+        - gnome-tour
+        - yelp
 
   - type: default-flatpaks
     configurations:
