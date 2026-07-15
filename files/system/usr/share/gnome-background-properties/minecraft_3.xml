@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Minecraft 3</name>
+        <filename>/usr/share/backgrounds/evenkite/minecraft_3.png</filename>
+        <filename-dark>/usr/share/backgrounds/evenkite/minecraft_3.png</filename-dark>
+        <options>zoom</options>
+        <author>Emberaine</author>
+        <email>https://github.com/emberaine</email>
+        <license>CC BY-NC-SA</license>
+    </wallpaper>
+</wallpapers>

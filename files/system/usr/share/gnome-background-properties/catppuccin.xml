@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Catppuccin City</name>
+        <filename>/usr/share/backgrounds/evenkite/catppuccin.png</filename>
+        <filename-dark>/usr/share/backgrounds/evenkite/catppuccin.png</filename-dark>
+        <options>zoom</options>
+        <author>Alex Rybin</author>
+        <email>https://unsplash.com/@alexrybin</email>
+        <license>Unsplash</license>
+    </wallpaper>
+</wallpapers>

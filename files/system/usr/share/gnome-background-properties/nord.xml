@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Nord</name>
+        <filename>/usr/share/backgrounds/evenkite/nord.png</filename>
+        <filename-dark>/usr/share/backgrounds/evenkite/nord.png</filename-dark>
+        <options>zoom</options>
+        <author>Daniel Leone</author>
+        <email>https://unsplash.com/@danielleone</email>
+        <license>Unsplash</license>
+    </wallpaper>
+</wallpapers>
