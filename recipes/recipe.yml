@@ -28,6 +28,9 @@ modules:
         - starship
         - fastfetch
         - hyfetch
+        - cava
+        - cmatrix
+        - cbonsai
         - topgrade
         - neovim
         - btop
