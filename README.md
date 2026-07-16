@@ -11,11 +11,13 @@
 
 ## Philosophy
 
-Silverblue doesn't have codecs or drivers, but has an extreme amount of default apps;
+Bazzite is made for those who want everything they'll ever need. Every game launcher, every dev tool, every terminal app, everything.
 
-Bazzite has codecs and drivers, but is such a big image and is very, very gaming focused;
+Silverblue is made to be an atomic version of their Workstation desktop. Super barren, without codecs, drivers, basically most of the stuff you'd need to get it running nice.
 
-Evenkite is for those in between. It is made for developers, by developers.
+Evenkite is for those in between. It comes with codecs and drivers, and uses a very small, initial set of apps. You get to choose what you put on top of that.
+
+No opinionated themes or icons, just a nice, clean set of default apps, wallpapers, and the things you need to make it home.
 
 ## Installation
 
