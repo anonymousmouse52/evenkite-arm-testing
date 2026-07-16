@@ -3,10 +3,10 @@
 # image will be published to ghcr.io/<user>/<name>
 name: evenkite
 # description will be included in the image's metadata
-description: This is my personal OS image.
+description: An ultra-lightweight, atomic Linux distrobution based on Fedora for the modern developer.
 
 # the base image to build on top of (FROM) and the version tag to use
-base-image: ghcr.io/ublue-os/silverblue-main
+base-image: ghcr.io/blue-build/base-images/fedora-silverblue
 image-version: latest # latest is also supported if you want new updates ASAP
 
 # module configuration, executed in order
@@ -35,6 +35,7 @@ modules:
         - nvtop
         - tree
         - fish
+        - steam-devices
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
@@ -62,6 +63,8 @@ modules:
           - io.github.flattool.Warehouse
           - com.github.tchx84.Flatseal
           - it.mijorus.gearlever
+          - com.mattjakeman.ExtensionManager
+          - page.tesk.Refine
       - notify: false
         scope: user # Also add Flathub user repo, but no user packages
 
