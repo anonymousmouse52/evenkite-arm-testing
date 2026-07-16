@@ -1,0 +1,3 @@
+[Logitech G903 Scroll Fix]
+MatchName=*Logitech G903*
+AttrEventCode=-REL_WHEEL_HI_RES;-REL_HWHEEL_HI_RES;
