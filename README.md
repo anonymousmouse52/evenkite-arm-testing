@@ -1,5 +1,5 @@
 <p align="center"><img width="1000" height="auto" scale="5" alt="evenkite_logo" src="https://github.com/user-attachments/assets/80da63ea-6599-4026-9004-d48be32fad0c" /></p>
-  <p align="center">An ultra-lightweight, atomic Linux distrobution based on Fedora for the modern developer.</p>
+  <p align="center">An ultra-lightweight, atomic Linux distribution based on Fedora for the modern developer.</p>
   <p align="center"><a href="https://github.com/emberaine/evenkite/actions/workflows/build.yml"><img src="https://github.com/emberaine/evenkite/actions/workflows/build.yml/badge.svg" alt="bluebuild build badge"/></a></p>
 
 ---
@@ -47,7 +47,7 @@ The `latest` tag will automatically point to the latest build. That build will s
 
 ## ISO
 
-If build on Fedora Atomic, you can generate an offline ISO with the instructions available [here](https://blue-build.org/how-to/generate-iso/#_top). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes, so for public projects something else has to be used for hosting.
+You can generate an offline ISO with the instructions available [here](https://blue-build.org/how-to/generate-iso/#_top). These ISOs cannot unfortunately be distributed on GitHub for free due to large sizes.
 
 ## Verification
 
