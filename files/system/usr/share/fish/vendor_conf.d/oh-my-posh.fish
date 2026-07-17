@@ -1,1 +1,1 @@
-oh-my-posh init fish --config /usr/share/evenkite/oh-my-posh/evenkite.omp.json | source
+oh-my-posh init fish --config /usr/share/evenkite/oh-my-posh/config.omp.json | source
