@@ -48,6 +48,10 @@ modules:
         - yelp
         - gnome-software
 
+  - type: brew
+    nofile-limits: true # increase nofile limits
+    brew-analytics: false # disable telemetry
+
   - type: default-flatpaks
     configurations:
       - notify: false
