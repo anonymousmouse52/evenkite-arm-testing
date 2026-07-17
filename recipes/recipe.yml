@@ -21,11 +21,10 @@ modules:
     repos:
       cleanup: true
       copr:
-        - atim/starship
         - lilay/topgrade
     install:
       packages:
-        - starship
+        - oh-my-posh
         - fastfetch
         - hyfetch
         - cava
