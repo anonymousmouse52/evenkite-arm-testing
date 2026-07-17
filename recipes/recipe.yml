@@ -38,6 +38,7 @@ modules:
         - tree
         - fish
         - steam-devices
+        - tailscale
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
@@ -73,6 +74,11 @@ modules:
           - page.tesk.Refine
       - notify: false
         scope: user # Also add Flathub user repo, but no user packages
+
+  - type: systemd
+    system:
+      enabled:
+        - tailscaled.service
 
   - type: os-release
     properties:
