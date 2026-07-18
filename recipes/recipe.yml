@@ -53,14 +53,12 @@ modules:
 
   - type: gnome-extensions
     install:
-      - Blur my Shell
-      - AppIndicator and KStatusNotifierItem Support
-      - Just Perfection
-      - Clipboard Indicator
-      - Color Picker
-      - Caffeine
-    uninstall:
-      - Background Logo
+      - 3193
+      - 615
+      - 3843
+      - 779
+      - 3396
+      - 517
 
   - type: brew
     nofile-limits: true # increase nofile limits
