@@ -1,5 +1,6 @@
 Warning: this is literally just a testing fork to see if i can get this shit working in a UTM arm64 vm. lol.
 
+another warning: fetch has been removed for now as there's no arm version in the repos. might build from source for arm later but not now!
 
 # original README:
 
