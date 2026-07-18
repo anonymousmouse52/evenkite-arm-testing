@@ -25,7 +25,6 @@ modules:
       cleanup: true
       copr:
         - lilay/topgrade
-        - realorangekun/fetch
     install:
       packages:
         - oh-my-posh
