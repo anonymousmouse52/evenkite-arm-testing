@@ -27,7 +27,6 @@ modules:
       packages:
         - oh-my-posh
         - fastfetch
-        - fetch
         - hyfetch
         - cava
         - cmatrix
