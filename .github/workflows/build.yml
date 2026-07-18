@@ -31,7 +31,7 @@ jobs:
     steps:
       # the build is fully handled by the reusable github action
       - name: Build Custom Image
-        uses: blue-build/github-action@v1.12
+        uses: JasonN3/build-container-installer@v1.5.0
         with:
           recipe: ${{ matrix.recipe }}
           cosign_private_key: ${{ secrets.SIGNING_SECRET }}
@@ -40,7 +40,3 @@ jobs:
           build_opts: --no-sign
           # enabled by default, disable if your image is small and you want faster builds
           maximize_build_space: true
-
-jobs:
-    - name: Build Container Installer
-    - uses: JasonN3/build-container-installer@v1.5.0
