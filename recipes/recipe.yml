@@ -81,9 +81,6 @@ modules:
         - tailscaled.service
 
   - type: justfiles
-    include:
-      - evenkite
-      - 00-default.just
 
   - type: os-release
     properties:
