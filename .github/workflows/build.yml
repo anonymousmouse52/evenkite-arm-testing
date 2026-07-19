@@ -33,6 +33,7 @@ jobs:
       - name: Build Container Installer
         uses: JasonN3/build-container-installer@v1.5.0
         with:
+          arch: AArch64
           recipe: ${{ matrix.recipe }}
           cosign_private_key: ${{ secrets.SIGNING_SECRET }}
           registry_token: ${{ github.token }}
